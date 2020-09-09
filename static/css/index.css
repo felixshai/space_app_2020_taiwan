@@ -5,14 +5,36 @@
 }
 
 body {
-    background-image: url("../img/bg.jpg");
-    background-repeat: no-repeat;
-    background-position:top left;
+    background: url("../img/bg.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+html { 
+    
+}
+
+.group_3 {
+    width: 120%;
+}
+
+.group_4 {
+    width: 250%;
+}
+
+.jothon {
+    width: 100%;
 }
 
 /* Space App Challenge logo size */
 .challenge {
     width: 20%;
+}
+
+.execute {
+    width: 150%;
 }
 
 hr {
