@@ -1,0 +1,15 @@
+* {
+    font-family: Microsoft JhengHei;
+    color: white;
+    font-size: 150%;
+}
+
+body {
+    background-image: url("../img/bg.jpg");
+    background-repeat: no-repeat;
+    background-position:top left;
+}
+
+hr {
+    border: 1px solid orange;
+}
